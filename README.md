@@ -1,2 +1,2 @@
-# sangachoi1018
-toy-node.js
+# node.js
+node.js textbook
