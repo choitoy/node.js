@@ -6,3 +6,5 @@ function helloWorld() {
 function helloNode() {
     console.log('Hello node');
 }
+
+helloWorld();
